@@ -3,7 +3,7 @@
     <string name="app_name">Canvas Scale Bug</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_source">Get source code</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Canvas Scale Bug</string>
     <string name="hw_acceleration">HW Acceleration</string>
     <string name="instructions">The red circle will turn into a blurry square after activating hardware acceleration. At least on Galaxy Nexus and Nexus 7.</string>
 
