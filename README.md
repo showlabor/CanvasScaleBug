@@ -1,4 +1,4 @@
 CanvasScaleBug
 ==============
 
-A demonstration of a bug with 2D hw acceleration.
+This demonstrates a bug with Android's 2D hw acceleration.
